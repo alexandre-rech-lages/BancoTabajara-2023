@@ -1,6 +1,4 @@
-﻿using System.Runtime.CompilerServices;
-
-namespace BancoTabajara.ConsoleApp
+﻿namespace BancoTabajara.ConsoleApp
 {
     public class ContaCorrente
     {
